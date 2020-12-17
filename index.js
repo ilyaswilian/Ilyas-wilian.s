@@ -14,7 +14,7 @@ const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
 const BotName = 'ILYAS WILIAN BOT'; 
-const instagram = 'https://instagram.com/cc2061338sdt; 
+const instagram = 'https://instagram.com/cc2061338sdt'; 
 const telegram = 'https://t.me/ilyaswilian'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
 const youtube = 'https://www.youtube.com/c/ilyas wilian';
