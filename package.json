@@ -1,13 +1,13 @@
 {
-  "name": "ELAINABOT",
+  "name": "Ilyas wilian Bot",
   "version": "3.0.0",
-  "description": "THX FOR MHANKBARBAR AS MY FRIEND, REEDIT BY TOBZ",
+  "description": "THX FOR MHANKBARBAR AS MY FRIEND, REEDIT BY Ilyas",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "TOBZ",
+  "author": "Ilyas",
   "license": "Apache-2.0",
   "dependencies": {
     "@open-wa/wa-automate": "^3.1.0",
@@ -61,7 +61,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TobyG74/ElainaBOT",
+    "url": "git+https://github.com/ilyaswilian/ilyas-wilian.s",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.9.0",
     "eslint-config-standard": "^14.1.1",
@@ -74,7 +74,55 @@
     "Whatsapp-Bot"
   ],
   "bugs": {
-    "url": "https://github.com/TobyG74/ElainaBOT/issues"
+    "url": "https://github.com/ilyaswilian/ilyas-wilian.s/issues"
   },
-  "homepage": "https://github.com/TobyG74/ElainaBOT"
+  "homepage": "https://github.com/ilyaswilian/ilyas-wilian.s"
+}
+{
+  "name": "BetaBOT",
+  "version": "1.0.0",
+  "description": "bot wa yang mudah untuk digunakan",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.2.1",
+    "axios": "0.21.0",
+    "bash": "0.0.1",
+    "brainly-scraper": "^1.0.2",
+    "cheerio": "^1.0.0-rc.3",
+    "cloudconvert": "^2.1.5",
+    "cwebp": "^2.0.5",
+    "got": "^11.8.0",
+    "gtts": "^0.2.1",
+    "gulp": "^4.0.2",
+    "gulp-webp": "^4.0.1",
+    "image-to-base64": "^2.1.1",
+    "moment": "^2.29.1",
+    "node-gtts": "^2.0.2",
+    "request": "^2.88.2",
+    "text-to-mp3": "^1.0.4",
+    "urlencode": "^1.1.0",
+    "webp-simple-converter": "^0.0.6",
+    "ytdl": "^1.3.5",
+    "ytdl-core": "^3.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilyaswilian/ilyas-wilian.s"
+  },
+  "keywords": [
+    "k"
+  ],
+  "author": "Abdul Muttaqin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilyaswilian/ilyas-wilian.s/issues"
+  },
+  "homepage": "https://github.com/ilyaswilian/ilyas-wilian.s#readme"
 }
